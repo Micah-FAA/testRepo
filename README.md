@@ -1,6 +1,7 @@
 # Git Demo
 
 Resource:
-https://education.github.com/git-cheat-sheet-education.pdf
-
-https://git-scm.com/cheat-sheet
+[
+https:://education.github.com/git-cheat-sheet-education.pdf
+https:://git-scm.com/cheat-sheet
+]
